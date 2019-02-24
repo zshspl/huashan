@@ -4,7 +4,7 @@ ddddd
 ddddd
 zs
 zs
-zs
+zs 1 modify
 zsadd
 zs add2
 zs add3
